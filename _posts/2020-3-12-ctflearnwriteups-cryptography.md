@@ -78,6 +78,6 @@ The above text is encoded as **Bacon Cipher** which can be decoded by this onlin
 
 
 
-_Thanks for your pacience,I hope you enjoyed reading.Happy Hacking... _
 
+<i>Thanks for your patience,I hope you enjoyed reading. Happy Hacking... </i>
 
