@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #          Ctflearn Cryptography(Easy) Writeups 
+title: null
 published: true
 ---
 CTFlearn (Capture The Flag) writeups, code snippets, notes, scripts for beginners..
@@ -37,7 +37,7 @@ As the challange name suggest it is converted into base64 encoding.
 `There is a technique called bruteforce. Message: q{vpln'bH_varHuebcrqxetrHOXEj No key! Just brute .. brute .. brute ... :D`
 
 This level again requires brute-forcing XOR. This online [tool](https://gchq.github.io/CyberChef/) can easily do this with the key 17.
-![img]({{ site.baseurl }}/images/1_bruXOR_1.PNG)
+![img]({{ site.baseurl }}/images/1_bruXOR_1.png)
 
 
 ## Reverse Polarity
@@ -76,8 +76,7 @@ The above text is encoded as **Bacon Cipher** which can be decoded by this onlin
 
 ```Flag-ILOUEBACONDONTYOU```
 
-</br>
-</br>
+<br>
+<br>
 
 <i>Thanks for your patience,I hope you enjoyed reading. Happy Hacking... </i>
-
