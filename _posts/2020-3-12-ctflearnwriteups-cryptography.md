@@ -36,13 +36,13 @@ As the challange name suggest it is converted into base64 encoding.
 `There is a technique called bruteforce. Message: q{vpln'bH_varHuebcrqxetrHOXEj No key! Just brute .. brute .. brute ... :D`
 
 This level again requires brute-forcing XOR. This online [tool](https://gchq.github.io/CyberChef/) can easily do this with the key 17.
-![img](https://github.com/jaiguptanick/writeup/blob/master/images/1_bruXOR_1.PNG "img1")
+![img]({{ site.baseurl }}/images/1_bruXOR_1.PNG)
 
 
 ## Reverse Polarity
-`I got a new hard drive just to hold my flag, but I'm afraid that it rotted. What do I do? The only thing I could get off of it was this: 01000011010101000100011001111011010000100110100101110100010111110100011001101100011010010111000001110000011010010110111001111101`
+`I got a new hard drive just to hold my flag, but I'm afraid that it rotted. What do I do? The only thing I could get off of it was this:01000011010101000100011001111011010000100110100101110100010111110
+100011001101100011010010111000001110000011010010110111001111101`
 
-![_config.yml]({{ site.baseurl }}/images/1_bruXOR_1.PNG)
 
 This level can be solved by just converting the Binary to Text.
 ``` Flag-CTF{Bit_Flippin} ```
