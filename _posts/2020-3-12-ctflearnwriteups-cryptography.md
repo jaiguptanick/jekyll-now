@@ -33,6 +33,7 @@ As the challange name suggest it is converted into base64 encoding.
 
 ```Flag- CTF{FlaggyWaggyRaggy}```
 ## BruXOR
+---
 `There is a technique called bruteforce. Message: q{vpln'bH_varHuebcrqxetrHOXEj No key! Just brute .. brute .. brute ... :D`
 
 This level again requires brute-forcing XOR. This online [tool](https://gchq.github.io/CyberChef/) can easily do this with the key 17.
@@ -40,6 +41,7 @@ This level again requires brute-forcing XOR. This online [tool](https://gchq.git
 
 
 ## Reverse Polarity
+---
 `I got a new hard drive just to hold my flag, but I'm afraid that it rotted. What do I do? The only thing I could get off of it was this:01000011010101000100011001111011010000100110100101110100010111110`
 `100011001101100011010010111000001110000011010010110111001111101`
 
@@ -49,21 +51,24 @@ The level can be solved by just converting the Binary to Text.
 ``` Flag-CTF{Bit_Flippin} ```
 
 ## Vigenere Cipher
+---
 `The vignere cipher is a method of encrypting alphabetic text by using a series of interwoven Caesar ciphers based on the letters of a keyword.I’m not sure what this means, but it left lying around: blorpy
 gwox{RgqssihYspOntqpxs}`
 
-The given text is Vigenere Cipher and the key is ```blorpy```.You can use this online [tool](https://www.dcode.fr/vigenere-cipher).
-![img]({{ site.baseurl }}/images/2_vugenere_1.PNG)
+The given text is Vigenere Cipher and the key is **blorpy**.You can use this online [tool](https://www.dcode.fr/vigenere-cipher).
+![img]({{ site.baseurl }}/images/2_vugenere_1.png)
 
 ```Flag-FLAG{CiphersAreAwesome}```
 
 ## Morse Code
+---
 `..-. .-.. .- --. ... .- -- ..- . .-.. -- --- .-. ... . .. ... -.-. --- --- .-.. -... -.-- - .... . .-- .- -.-- .. .-.. .. -.- . -.-. .... . . ...`
 
-This representation is morse code. Use this online [tool](https://gchq.github.io/CyberChef/)to decode.
+This representation is morse code. Use this online [tool](https://gchq.github.io/CyberChef/) to decode.
 ![img]({{ site.baseurl }}/images/3_morse_code.png)
 
 ## HyperStream Test #2
+---
 `I love the smell of bacon in the morning! ABAAAABABAABBABBAABBAABAAAAAABAAAAAAAABAABBABABBAAAAABBABBABABBAABAABABABBAABBABBAABB`
 
 
