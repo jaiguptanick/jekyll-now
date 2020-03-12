@@ -44,9 +44,27 @@ This level again requires brute-forcing XOR. This online [tool](https://gchq.git
 `100011001101100011010010111000001110000011010010110111001111101`
 
 
-This level can be solved by just converting the Binary to Text.
+The level can be solved by just converting the Binary to Text.
 
 ``` Flag-CTF{Bit_Flippin} ```
+
+## Vigenere Cipher
+`The vignere cipher is a method of encrypting alphabetic text by using a series of interwoven Caesar ciphers based on the letters of a keyword.I’m not sure what this means, but it left lying around: blorpy
+gwox{RgqssihYspOntqpxs}`
+
+The given text is Vigenere Cipher and the key is ```blorpy```.You can use this online [tool](https://www.dcode.fr/vigenere-cipher).
+![img]({{ site.baseurl }}/images/2_vugenere_1.PNG)
+
+```Flag-FLAG{CiphersAreAwesome}```
+
+## Morse Code
+`..-. .-.. .- --. ... .- -- ..- . .-.. -- --- .-. ... . .. ... -.-. --- --- .-.. -... -.-- - .... . .-- .- -.-- .. .-.. .. -.- . -.-. .... . . ...`
+
+This representation is morse code. Use this online [tool](https://gchq.github.io/CyberChef/)to decode.
+![img]({{ site.baseurl }}/images/3_morse_code.png)
+
+## HyperStream Test #2
+`I love the smell of bacon in the morning! ABAAAABABAABBABBAABBAABAAAAAABAAAAAAAABAABBABABBAAAAABBABBABABBAABAABABABBAABBABBAABB`
 
 
 
