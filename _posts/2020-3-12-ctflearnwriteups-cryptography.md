@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <u> Ctflearn Cryptography(Easy) Writeups </u>
+title: #          Ctflearn Cryptography(Easy) Writeups 
 published: true
 ---
 CTFlearn (Capture The Flag) writeups, code snippets, notes, scripts for beginners..
