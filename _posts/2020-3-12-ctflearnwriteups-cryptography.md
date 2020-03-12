@@ -5,7 +5,7 @@ published: true
 ---
 CTFlearn (Capture The Flag) writeups, code snippets, notes, scripts for beginners..
 
-# Cryptography (Easy)
+# <u>Cryptography</u> (Easy)
 
 ## Character Encoding
 ---
