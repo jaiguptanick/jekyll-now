@@ -22,6 +22,8 @@ This level is pretty simple; the flag is just converted into hex.
 0xc4115 0x4cf8`
 
 ROX indicates XOR i.e perform XOR operation on these two strings to get the flag.
+Use this tool<https://xor.pw/> to perform XOR on the strings.
 
 ```Flag- c0ded ```
+
 
