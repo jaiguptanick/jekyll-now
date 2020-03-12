@@ -1,10 +1,7 @@
 ---
 layout: post
-title: <u> Ctflearn Writeups </u>
+title: <u> Ctflearn Cryptography(Easy) Writeups </u>
 published: true
----
-
-#  <u>Cryptography(Easy) writeups</u>
 ---
 CTFlearn (Capture The Flag) writeups, code snippets, notes, scripts for beginners..
 ## Character Encoding
