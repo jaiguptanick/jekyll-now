@@ -9,7 +9,7 @@ name: Jai Gupta
 description: Cyber Security Learner
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ![_config.yml]({{ site.baseurl }}/images/my_icon.png)
+avatar: https://raw.githubusercontent.com/jaiguptanick/writeup/master/images/my_icon.png
 
 #
 # Flags below are optional
