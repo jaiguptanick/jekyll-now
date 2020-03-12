@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ctflearn.com Writeups
+title: ctflearn.com writeups
 ---
 CRYPTOGRAPHY(Easy) writeups
 ---
