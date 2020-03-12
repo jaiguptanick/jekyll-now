@@ -1,12 +1,14 @@
 ---
 layout: post
 title: ctflearn.com writeups
+published: true
 ---
+
 CRYPTOGRAPHY(Easy) writeups
 ---
 CTFlearn (Capture The Flag) writeups, code snippets, notes, scripts for beginners..
+---
 
+#Character Encoding
+>In the computing industry, standards are established to facilitate information interchanges among American coders. Unfortunately, I've made communication a little bit more difficult. Can you figure this one out? 41 42 43 54 46 7B 34 35 43 31 31 5F 31 35 5F 55 35 33 46 55 4C 7D
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
