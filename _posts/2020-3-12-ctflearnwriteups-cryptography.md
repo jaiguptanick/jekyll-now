@@ -72,6 +72,7 @@ This representation is morse code. Use this online [tool](https://gchq.github.io
 `I love the smell of bacon in the morning! ABAAAABABAABBABBAABBAABAAAAAABAAAAAAAABAABBABABBAAAAABBABBABABBAABAABABABBAABBABBAABB`
 
 The above text is encoded as **Bacon Cipher** which can be decoded by this online [Tool](https://gchq.github.io/CyberChef/)
+![img]({{ site.baseurl }}/images/4_HYPER_1.png)
 
 ```Flag-ILOUEBACONDONTYOU```
 
