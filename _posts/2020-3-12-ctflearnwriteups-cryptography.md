@@ -4,7 +4,7 @@ title: ctflearn.com writeups
 published: true
 ---
 
-# **Cryptography(Easy) writeups**
+#  ** <u>Cryptography(Easy) writeups</u>**
 ---
 CTFlearn (Capture The Flag) writeups, code snippets, notes, scripts for beginners..
 ---
