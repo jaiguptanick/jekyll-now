@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <u> ctflearn.com writeups </u>
+title: <u> Ctflearn Writeups </u>
 published: true
 ---
 
