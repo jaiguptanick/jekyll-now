@@ -23,7 +23,7 @@ Cyber_Security_Enthusiast
   
   CyberLabs(CyberSociety,IIT-ISMDhanbad)
 
-###### Dec2019–Present Dhanbad,India
+> Dec2019–Present Dhanbad,India
  
  >>>>>>CyberLabs is the initiative of IIT(ISM)students on the footsteps of MIT MediaLabs,MIT.
 
@@ -33,7 +33,7 @@ Cyber_Security_Enthusiast
 ##### Indian Institute of Technology (ISM), Dhanbad — B.Tech, Petroleum Engineering
  
 <div style="text-align:right;">
-`JULY 2019- MAY 2023`
+<i>JULY 2019- MAY 2023 </i>
 </div>  
 
 ##### Mahatma Hansraj Modern School, Jhansi — 12th / Board
