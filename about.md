@@ -31,7 +31,9 @@ Cyber_Security_Enthusiast
 
 ##### Indian Institute of Technology (ISM), Dhanbad — B.Tech, Petroleum Engineering
  
- >>>>>>JULY 2019- MAY 2023       
+<div style="text-align:right;">
+>>>>>>JULY 2019- MAY 2023
+</div>  
 
 ##### Mahatma Hansraj Modern School, Jhansi — 12th / Board
 
