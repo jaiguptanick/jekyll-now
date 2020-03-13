@@ -11,9 +11,9 @@ Cyber_Security_Enthusiast
 ### SKILLS
 ---
 
-> Information Security-Kali Linux, Web-Security and Exploitation, Cryptography, Burp Suite, Wireshark etc
-> Hardware and IOT- Arduino, Working with Sensors and Devices 
-> Programming Languages- Python, and Basic knowledge of C, C++ and Assembly Language
+> **Information Security**-Kali Linux, Web-Security and Exploitation, Cryptography, Burp Suite, Wireshark etc <br>
+> **Hardware and IOT**- Arduino, Working with Sensors and Devices<br> 
+> **Programming Languages**- Python, and Basic knowledge of C, C++ and Assembly Language
 
 
 
