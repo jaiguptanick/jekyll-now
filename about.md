@@ -9,10 +9,10 @@ Cyber_Security_Enthusiast
 
 
 ### Experiance
-#### CyberSecurity Division Member
+> **CyberSecurity Division Member**
   CyberLabs(CyberSociety,IIT-ISMDhanbad)
-    >Dec2019–Present Dhanbad,India
-      |>>>>>>CyberLabs is the initiative of IIT(ISM)students on the footsteps of MIT MediaLabs,MIT.
+  >Dec2019–Present Dhanbad,India
+  |>>>>>>CyberLabs is the initiative of IIT(ISM)students on the footsteps of MIT MediaLabs,MIT.
 
 ### EDUCATION                                                                                             
 
