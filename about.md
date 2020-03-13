@@ -7,9 +7,11 @@ published: true
 
 Cyber_Security_Enthusiast
 
-### 
-
-A place to include any other types of information that you'd like to include about yourself.
+### EDUCATION                                                                                              
+##### Indian Institute of Technology (ISM), Dhanbad — B.Tech, Petroleum Engineering
+    >>>>>JULY 2019- MAY 2023       
+##### Mahatma Hansraj Modern School, Jhansi — 12th / Board
+##### Jai Academy, Jhansi — 10th / Board
 
 ### Contact me
 
