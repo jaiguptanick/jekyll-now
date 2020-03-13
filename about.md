@@ -9,6 +9,7 @@ Cyber_Security_Enthusiast
 
 
 ### SKILLS
+---
 
 > Information Security-Kali Linux, Web-Security and Exploitation, Cryptography, Burp Suite, Wireshark etc
 > Hardware and IOT- Arduino, Working with Sensors and Devices 
@@ -17,6 +18,7 @@ Cyber_Security_Enthusiast
 
 
 ### EXPERIENCE
+---
 > **CyberSecurity Division Member**
   
   CyberLabs(CyberSociety,IIT-ISMDhanbad)
@@ -25,6 +27,7 @@ Cyber_Security_Enthusiast
   >>>>>>CyberLabs is the initiative of IIT(ISM)students on the footsteps of MIT MediaLabs,MIT.
 
 ### EDUCATION                                                                                             
+---
 
 ##### Indian Institute of Technology (ISM), Dhanbad — B.Tech, Petroleum Engineering
  
@@ -36,5 +39,6 @@ Cyber_Security_Enthusiast
 
 
 ### Contact me
+---
 
 [jaiguptanick@gmail.com](mailto:jaiguptanick@gmail.com)
